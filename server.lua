@@ -1,7 +1,7 @@
 ESX = nil
 
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
-local webhook = "https://discord.com/api/webhooks/955473323033256067/D2YSxu4FKwvCTmCs_m6K8g7PnCfFykT-syTk832MhumxKQSxiW-ARXnFlidi1sAz_8oc"
+local webhook = ""
 local name = "Imago Rzadowy"
 local logo = "https://media.discordapp.net/attachments/853588228094427157/910804424929210378/imago.png"
 
